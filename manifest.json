@@ -1,0 +1,16 @@
+{
+"name":"Limon App",
+"short_name":"Limon",
+"theme_color":"#FFFCE8",
+"description":"Your Taxi Pooling App"
+"background_color":"#FFFCE8"
+"display":"standalone",
+"start_url":"https://limon-app.bubbleapps.io/?debug_mode=true",
+"icons": [
+ {
+"src":""C:\Users\ASUS\Desktop\Limon\logo.png""
+"sizes":"512x512",
+"type":"image/png"
+ }
+   ]
+}
